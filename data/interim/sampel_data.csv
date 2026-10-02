@@ -1,0 +1,6 @@
+part_id,part_description,supplier_name,plant_location,category,material_type,material_grade,unit_weight_kg,annual_volume,unit_price_local,currency,fiscal_year,description_bin
+PART-0034,B-Pillar Reinforcement,Vindhya Metal Works,Chennai,Reinforcements,Steel,IF Steel,0.697,36000,79.56,INR,FY26,Pillar
+PART-0199,Suspension Mount Plate,Rhein Metall Components GmbH,Stuttgart,Brackets & Mounts,Steel,DP780,1.05,42000,7.85,INR,FY26,Mount
+PART-0060,Clip Retainer Plate,Ganga Auto Forgings,Pantnagar,Fasteners,Steel,cr3,1.133,18000,108.0,INR,FY26,Plate
+PART-0032,Bumper Reinforcement Beam,Bharat Precision Stampings,Gurugram,Reinforcements,Steel,CR-3,0.602,12000,51.88,INR,FY26,Beam
+PART-0021,Suspension Mount Plate,Om Precision Tools,Chennai,Brackets & Mounts,Steel,HSLA 340,0.912,5000,101.47,INR,FY26,Mount

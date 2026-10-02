@@ -1,0 +1,118 @@
+part_id,part_description,supplier_name,plant_location,category,material_type,material_grade,unit_weight_kg,annual_volume,unit_price_local,currency,fiscal_year,description_bin
+PART-0034,B-Pillar Reinforcement,Vindhya Metal Works,Chennai,Reinforcements,Steel,IF Steel,0.697,36000,79.56,INR,FY26,Pillar
+PART-0199,Suspension Mount Plate,Rhein Metall Components GmbH,Stuttgart,Brackets & Mounts,Steel,DP780,1.05,42000,7.85,INR,FY26,Mount
+PART-0060,Clip Retainer Plate,Ganga Auto Forgings,Pantnagar,Fasteners,Steel,cr3,1.133,18000,108.0,INR,FY26,Plate
+PART-0032,Bumper Reinforcement Beam,Bharat Precision Stampings,Gurugram,Reinforcements,Steel,CR-3,0.602,12000,51.88,INR,FY26,Beam
+PART-0021,Suspension Mount Plate,Om Precision Tools,Chennai,Brackets & Mounts,Steel,HSLA 340,0.912,5000,101.47,INR,FY26,Mount
+PART-0108,Exhaust Hanger Bracket,Suresh Auto Components,Sanand,Brackets & Mounts,Steel,dp600,1.547,12000,181.53,INR,FY26,Bracket
+PART-0087,Suspension Mount Plate,Vindhya Metal Works,Pantnagar,Brackets & Mounts,Steel,DP780,1.582,24000,137.68,INR,FY26,Mount
+PART-0029,Weld Nut Assembly,Anand Sheet Metal Ltd,Chakan,Fasteners,Steel,DP 600,0.957,5000,91.5,INR,FY26,Nut
+PART-0042,Engine Mount Bracket,Bharat Precision Stampings,Pune,Brackets & Mounts,Steel,DP600,0.82,120000,145.0,INR,FY26,Mount
+PART-0027,Cross Member Mount,Shivam Forge Pvt Ltd,Pune,Brackets & Mounts,Steel,if steel,3.195,5000,197.55,INR,FY26,Mount
+PART-0070,Cross Member Mount,Om Precision Tools,Gurugram,brackets,Steel,CR-3,0.334,5000,43.3,INR,FY26,Mount
+PART-0091,Chassis Mount Bracket,Suresh Auto Components,Pantnagar,Brackets & Mounts,Steel,CR3,0.858,150000,69.84,INR,FY26,Mount
+PART-0050,Clip Retainer Plate,Ganga Auto Forgings,Pune,Fasteners,Steel,HSLA 340,2.448,48000,218.05,INR,FY26,Plate
+PART-0040,Cross Member Mount,Om Precision Tools,Chakan,Brackets & Mounts,Steel,hsla340,0.538,48000,62.17,INR,FY26,Mount
+PART-0067,Sill Reinforcement Plate,Shivam Forge Pvt Ltd,Pune,Reinforcements,Steel,cr3,1.582,60000,147.36,INR,FY26,Plate
+PART-0103,Roof Rail Reinforcement,Shivam Forge Pvt Ltd,Chakan,Rail,Steel,hsla340,2.9,150000,220.04,INR,FY26,Rail
+PART-0057,Fastener Bracket Set,Om Precision Tools,Pantnagar,Fasteners,Steel,DP780,1.956,150000,155.98,INR,FY26,Bracket
+PART-0026,Chassis Mount Bracket,Kalyani Stamping Co,Gurugram,Brackets & Mounts,Steel,dp780,2.334,18000,162.75,INR,FY26,Mount
+PART-0089,Door Reinforcement Panel,Om Precision Tools,Pune,Body Panels,Steel,DP-600,0.657,24000,66.49,INR,FY26,Panel
+PART-0003,Sill Reinforcement Plate,Anand Sheet Metal Ltd,Pune,Reinforcements,Steel,dp780,1.439,24000,126.6,INR,FY26,Plate
+PART-0072,Roof Rail Reinforcement,Anand Sheet Metal Ltd,Chakan,Reinforcements,Steel,IF Steel,2.247,24000,221.27,INR,FY26,Rail
+PART-0022,Steering Column Bracket,Bharat Precision Stampings,Pune,Brackets & Mounts,Steel,DP780,1.39,60000,107.37,INR,FY26,Bracket
+PART-0062,Rear Quarter Panel,Anand Sheet Metal Ltd,Sanand,Body Panels,Steel,DP 600,0.411,48000,62.17,INR,FY26,Panel
+PART-0005,Clip Retainer Plate,Kalyani Stamping Co,Sanand,Misc,Steel,dp780,0.362,150000,38.34,INR,FY26,Plate
+PART-0006,Exhaust Hanger Bracket,Anand Sheet Metal Ltd,Pantnagar,Brackets & Mounts,Steel,HSLA340,1.279,18000,134.19,INR,FY26,Bracket
+PART-0001,Engine Mount Bracket,Anand Sheet Metal Ltd,Chennai,Brackets & Mounts,Steel,DP780,2.396,150000,226.85,INR,FY26,Mount
+PART-0066,Transmission Support Bracket,Anand Sheet Metal Ltd,Chennai,Brackets & Mounts,Steel,HSLA340,1.072,90000,70.98,INR,FY26,Bracket
+PART-0109,Battery Tray Bracket,Om Precision Tools,Pune,Brackets & Mounts,Steel,HSLA340,0.734,36000,66.38,INR,FY26,Bracket
+PART-0051,Sill Reinforcement Plate,Suresh Auto Components,Gurugram,Reinforcements,Steel,IF steel,0.239,36000,52.47,INR,FY26,Plate
+PART-0025,Transmission Support Bracket,Shivam Forge Pvt Ltd,Sanand,Brackets & Mounts,Steel,DP 600,1.382,120000,115.43,INR,FY26,Bracket
+PART-0104,Suspension Mount Plate,Suresh Auto Components,Chakan,Brackets & Mounts,Steel,CR3,0.304,36000,29.09,INR,FY26,Mount
+PART-0035,Roof Rail Reinforcement,Vindhya Metal Works,Chakan,Reinforcements,Steel,DP-600,2.81,60000,213.13,INR,FY26,Rail
+PART-0074,Fastener Bracket Set,Anand Sheet Metal Ltd,Pantnagar,Fasteners,Steel,DP-600,2.25,48000,231.11,INR,FY26,Bracket
+PART-0110,Door Reinforcement Panel,Kalyani Stamping Co,Chakan,Body Panels,Steel,HSLA340,0.734,36000,66.38,INR,FY26,Panel
+PART-0042,Engine Mount Bracket ,Shivam Forge Pvt Ltd,Chakan,brackets,Steel,DP 600,0.82,15000,340.0,INR,FY26,Mount
+PART-0002,Engine Mount Bracket,Shivam Forge Pvt Ltd,Chennai,Brackets & Mounts,Steel,dp780,1.986,90000,152.77,INR,FY26,Mount
+PART-0106,B-Pillar Reinforcement,Anand Sheet Metal Ltd,Chennai,Reinforcements,Steel,DP600,0.552,36000,61.13,INR,FY26,Pillar
+PART-0045,Engine Mount Bracket,Om Precision Tools,Chennai,Misc,Steel,dp780,1.73,24000,167.89,INR,FY26,Mount
+PART-0094,Cross Member Mount,Bharat Precision Stampings,Sanand,Brackets & Mounts,Steel,DP-600,2.69,24000,244.47,INR,FY26,Mount
+PART-0096,Clip Retainer Plate,Vindhya Metal Works,Pune,Fasteners,Steel,HSLA 340,2.43,12000,185.7,INR,FY26,Plate
+PART-0086,Sill Reinforcement Plate,Bharat Precision Stampings,Chennai,Reinforcements,Steel,CR-3,1.163,5000,125.04,INR,FY26,Plate
+PART-0018,Weld Nut Assembly,Bharat Precision Stampings,Pune,Fasteners,Steel,DP 600,0.356,48000,33.92,INR,FY26,Nut
+PART-0069,Floor Panel Inner,Suresh Auto Components,Pune,Body Panels,Steel,cr3,1.999,120000,151.28,INR,FY26,Panel
+PART-0024,Radiator Support Bracket,Bharat Precision Stampings,Chakan,Brackets & Mounts,Steel,HSLA340,0.303,60000,57.6,INR,FY26,Bracket
+PART-0112,Cross Member Mount,Vindhya Metal Works,Gurugram,Brackets & Mounts,Steel,HSLA340,0.734,60000,66.38,INR,FY26,Mount
+PART-0063,Cross Member Mount,Bharat Precision Stampings,Pune,Brackets & Mounts,Steel,HSLA340,1.383,18000,118.36,INR,FY26,Mount
+PART-0064,Clip Retainer Plate,Om Precision Tools,Chakan,Misc,Steel,cr3,1.223,60000,94.32,INR,FY26,Plate
+PART-0099,Rear Quarter Panel,Om Precision Tools,Chakan,Body Panels,Steel,HSLA340,2.208,60000,159.6,INR,FY26,Panel
+PART-0031,Roof Rail Reinforcement,Vindhya Metal Works,Chakan,Reinforcements,Steel,if steel,2.302,90000,135.13,INR,FY26,Rail
+PART-0107,Roof Rail Reinforcement,Bharat Precision Stampings,Chennai,Reinforcements,Steel,if steel,0.497,5000,69.03,INR,FY26,Rail
+PART-0010,Chassis Mount Bracket,Om Precision Tools,Gurugram,Misc,Steel,DP780,1.704,5000,180.37,INR,FY26,Mount
+PART-0014,Fastener Bracket Set,Bharat Precision Stampings,Sanand,Fasteners,Steel,HSLA 340,0.209,36000,52.95,INR,FY26,Bracket
+PART-0081,Transmission Support Bracket,Shivam Forge Pvt Ltd,Pantnagar,Brackets & Mounts,Steel,DP 600,1.67,24000,140.41,INR,FY26,Bracket
+PART-0037,Chassis Mount Bracket,Kalyani Stamping Co,Pune,Brackets & Mounts,Steel,dp600,0.695,24000,65.17,INR,FY26,Mount
+PART-0007,Radiator Support Bracket,Vindhya Metal Works,Sanand,Brackets & Mounts,Steel,DP780,1.56,24000,174.95,INR,FY26,Bracket
+PART-0023,Exhaust Hanger Bracket,Anand Sheet Metal Ltd,Pantnagar,Brackets & Mounts,Steel,HSLA 340,2.275,90000,207.39,INR,FY26,Bracket
+PART-0079,Weld Nut Assembly,Ganga Auto Forgings,Pantnagar,Fasteners,Steel,DP 600,1.731,120000,174.47,INR,FY26,Nut
+PART-0039,Roof Rail Reinforcement,Om Precision Tools,Pune,Reinforcements,Steel,hsla340,1.107,5000,108.27,INR,FY26,Rail
+PART-0019,Bumper Reinforcement Beam,Vindhya Metal Works,Chakan,Misc,Steel,CR-3,1.592,60000,150.65,INR,FY26,Beam
+PART-0004,Exhaust Hanger Bracket,Shivam Forge Pvt Ltd,Gurugram,Brackets & Mounts,Steel,hsla340,0.957,90000,112.22,INR,FY26,Bracket
+PART-0047,Cross Member Mount,Anand Sheet Metal Ltd,Chennai,Brackets & Mounts,Steel,hsla340,1.628,18000,115.13,INR,FY26,Mount
+PART-0088,Rear Quarter Panel,Om Precision Tools,Gurugram,Body Panels,Steel,if steel,0.259,5000,45.63,INR,FY26,Panel
+PART-0073,Sill Reinforcement Plate,Shivam Forge Pvt Ltd,Sanand,General,Steel,dp780,0.604,24000,60.69,INR,FY26,Plate
+PART-0083,Fender Panel RH,Kalyani Stamping Co,Sanand,Body Panels,Steel,HSLA340,1.013,24000,114.95,INR,FY26,Panel
+PART-0046,Fastener Bracket Set,Kalyani Stamping Co,Pantnagar,Fasteners,Steel,CR-3,2.871,48000,277.46,INR,FY26,Bracket
+PART-0100,Weld Nut Assembly,Shivam Forge Pvt Ltd,Chakan,Misc,Steel,if steel,1.072,48000,70.55,INR,FY26,Nut
+PART-0016,Weld Nut Assembly,Anand Sheet Metal Ltd,Sanand,Fasteners,Steel,cr3,3.091,90000,292.53,INR,FY26,Nut
+PART-0043,Clip Retainer Plate,Shivam Forge Pvt Ltd,Chennai,Fasteners,Steel,HSLA340,2.61,12000,159.67,INR,FY26,Plate
+PART-0008,Floor Panel Inner,Suresh Auto Components,Pune,Body Panels,Steel,HSLA 340,0.967,18000,113.36,INR,FY26,Panel
+PART-0113,Weld Nut Assembly,Suresh Auto Components,Chennai,Brackets & Mounts,Steel,HSLA340,0.734,18000,66.38,INR,FY26,Nut
+PART-0111,Wheel Arch Panel,Ganga Auto Forgings,Pune,Body Panels,Steel,HSLA340,0.734,18000,66.38,INR,FY26,Panel
+PART-0085,Bumper Reinforcement Beam,Om Precision Tools,Chennai,Reinforcements,Steel,IF Steel,1.12,60000,126.59,INR,FY26,Beam
+PART-0095,B-Pillar Reinforcement,Anand Sheet Metal Ltd,Chakan,Reinforcements,Steel,dp780,0.446,150000,51.87,INR,FY26,Pillar
+PART-0076,Weld Nut Assembly,Anand Sheet Metal Ltd,Sanand,Fasteners,Steel,DP 600,1.585,150000,129.95,INR,FY26,Nut
+PART-0011,Chassis Mount Bracket,Shivam Forge Pvt Ltd,Pantnagar,Brackets & Mounts,Steel,if steel,3.188,90000,231.76,INR,FY26,Mount
+PART-0012,Steering Column Bracket,Anand Sheet Metal Ltd,Chakan,Brackets & Mounts,Steel,HSLA340,1.045,12000,114.82,INR,FY26,Bracket
+PART-0009,Sill Reinforcement Plate,Om Precision Tools,Chakan,Reinforcements,Steel,IF Steel,0.958,18000,105.1,INR,FY26,Plate
+PART-0061,Sill Reinforcement Plate,Om Precision Tools,Gurugram,Reinforcements,Steel,DP-600,2.745,12000,221.93,INR,FY26,Plate
+PART-0020,Fender Panel RH,Om Precision Tools,Pantnagar,Body Panels,Steel,DP600,0.335,36000,37.98,INR,FY26,Panel
+PART-0048,Fender Panel LH,Kalyani Stamping Co,Sanand,Body Panels,Steel,DP 600,0.61,48000,80.21,INR,FY26,Panel
+PART-0033,Battery Tray Bracket,Suresh Auto Components,Chakan,Brackets & Mounts,Steel,dp780,0.464,90000,61.15,INR,FY26,Bracket
+PART-0097,Rear Quarter Panel,Anand Sheet Metal Ltd,Chennai,Body Panels,Steel,HSLA 340,3.101,24000,280.01,INR,FY26,Panel
+PART-0055,Engine Mount Bracket,Suresh Auto Components,Chennai,brackets,Steel,DP 600,0.878,60000,96.54,INR,FY26,Mount
+PART-0041,Bumper Reinforcement Beam,Anand Sheet Metal Ltd,Pantnagar,Reinforcements,Steel,CR3,1.077,18000,103.05,INR,FY26,Beam
+PART-0101,Engine Mount Bracket,Suresh Auto Components,Sanand,Brackets & Mounts,Steel,DP 780,1.534,150000,172.0,INR,FY26,Mount
+PART-0054,Exhaust Hanger Bracket,Bharat Precision Stampings,Chakan,Brackets & Mounts,Steel,CR3,3.2,36000,212.1,INR,FY26,Bracket
+PART-0052,Suspension Mount Plate,Bharat Precision Stampings,Pantnagar,Brackets & Mounts,Steel,CR-3,2.172,5000,185.05,INR,FY26,Mount
+PART-0105,Radiator Support Bracket,Suresh Auto Components,Sanand,Brackets & Mounts,Steel,DP780,1.152,12000,125.56,INR,FY26,Bracket
+PART-0044,Exhaust Hanger Bracket,Om Precision Tools,Chakan,Brackets & Mounts,Steel,CR3,2.341,48000,188.59,INR,FY26,Bracket
+PART-0053,Battery Tray Bracket,Om Precision Tools,Gurugram,Brackets & Mounts,Steel,DP 780,1.147,48000,114.14,INR,FY26,Bracket
+PART-0030,Roof Rail Reinforcement,Suresh Auto Components,Chakan,General,Steel,hsla340,1.64,12000,165.84,INR,FY26,Rail
+PART-0058,Weld Nut Assembly,Bharat Precision Stampings,Gurugram,Fasteners,Steel,cr3,2.168,5000,180.06,INR,FY26,Nut
+PART-0102,Fastener Bracket Set,Vindhya Metal Works,Pantnagar,Fasteners,Steel,DP-600,2.028,24000,132.16,INR,FY26,Bracket
+PART-0028,Floor Panel Inner,Suresh Auto Components,Gurugram,Body Panels,Steel,HSLA340,1.486,90000,149.96,INR,FY26,Panel
+PART-0093,Wheel Arch Panel,Om Precision Tools,Pantnagar,Body Panels,Steel,DP 600,1.313,36000,142.15,INR,FY26,Panel
+PART-0210,Rear Quarter Panel,Anand Sheet Metal Ltd,Sanand,Body Panels,Steel,IF Steel,2.4,0,610.0,INR,FY26,Panel
+PART-0098,B-Pillar Reinforcement,Om Precision Tools,Sanand,Reinforcements,Steel,HSLA340,2.562,48000,216.82,INR,FY26,Pillar
+PART-0084,Sill Reinforcement Plate,Ganga Auto Forgings,Gurugram,brackets,Steel,hsla340,2.477,48000,197.61,INR,FY26,Plate
+PART-0015,Transmission Support Bracket,Shivam Forge Pvt Ltd,Pune,Brackets & Mounts,Steel,IF Steel,3.133,90000,277.78,INR,FY26,Bracket
+PART-0090,Fender Panel LH,Kalyani Stamping Co,Pantnagar,Body Panels,Steel,DP780,1.77,120000,156.92,INR,FY26,Panel
+PART-0013,Rear Quarter Panel,Vindhya Metal Works,Sanand,Body Panels,Steel,dp600,2.717,90000,225.97,INR,FY26,Panel
+PART-0056,Fender Panel LH,Vindhya Metal Works,Sanand,Body Panels,Steel,CR-3,2.341,12000,227.87,INR,FY26,Panel
+PART-0078,Cross Member Mount,Om Precision Tools,Sanand,Brackets & Mounts,Steel,DP-600,0.419,24000,67.42,INR,FY26,Mount
+PART-0065,Floor Panel Inner,Vindhya Metal Works,Chennai,Body Panels,Steel,dp780,1.627,120000,176.4,INR,FY26,Panel
+PART-0059,Suspension Mount Plate,Om Precision Tools,Gurugram,Brackets & Mounts,Steel,if steel,0.617,12000,90.84,INR,FY26,Mount
+PART-0038,Fender Panel RH,Shivam Forge Pvt Ltd,Pantnagar,Body Panels,Steel,CR3,0.927,48000,88.44,INR,FY26,Panel
+PART-0068,Suspension Mount Plate,Shivam Forge Pvt Ltd,Pantnagar,Brackets & Mounts,Steel,IF Steel,1.91,150000,119.37,INR,FY26,Mount
+PART-0077,Chassis Mount Bracket,Ganga Auto Forgings,Pune,Brackets & Mounts,Steel,IF steel,1.395,36000,149.14,INR,FY26,Mount
+PART-0049,Rear Quarter Panel,Ganga Auto Forgings,Pantnagar,Body Panels,Steel,DP 600,2.69,48000,270.75,INR,FY26,Panel
+PART-0042,Cross Member Mount,Ganga Auto Forgings,Chakan,Brackets & Mounts,Steel,dp780,1.593,12000,144.53,INR,FY26,Mount
+PART-0092,Cross Member Mount,Vindhya Metal Works,Pune,Brackets & Mounts,Steel,IF steel,3.162,24000,274.57,INR,FY26,Mount
+PART-0071,Transmission Support Bracket,Suresh Auto Components,Chennai,Brackets & Mounts,Steel,CR3,0.627,48000,71.57,INR,FY26,Bracket
+PART-0075,Radiator Support Bracket,Bharat Precision Stampings,Pantnagar,Brackets & Mounts,Steel,hsla340,0.914,5000,87.24,INR,FY26,Bracket
+PART-0082,Suspension Mount Plate,Ganga Auto Forgings,Sanand,Brackets & Mounts,Steel,DP 780,0.731,120000,90.84,INR,FY26,Mount
+PART-0080,Roof Rail Reinforcement,Vindhya Metal Works,Gurugram,Misc,Steel,if steel,1.628,24000,151.64,INR,FY26,Rail
+PART-0036,Wheel Arch Panel,Suresh Auto Components,Pune,Body Panels,Steel,DP 780,1.151,5000,122.59,INR,FY26,Panel
+PART-0017,Chassis Mount Bracket,Kalyani Stamping Co,Pantnagar,Brackets & Mounts,Steel,cr3,0.519,18000,35.61,INR,FY26,Mount
