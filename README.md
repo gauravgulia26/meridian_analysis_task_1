@@ -1,7 +1,5 @@
 # Meridian Spend Analysis & Should-Cost Modeling
 
-This repository contains the deliverables for the interview assignment on spend data cleaning, categorization, and should-cost benchmarking for Meridian Auto Components.
-
 ---
 
 ## 🧭 Reviewer Guide & Quick Navigation
